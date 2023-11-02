@@ -1,4 +1,4 @@
-use University_as1050128;
+use University_XXXXXXXXX;
 
 show tables;
 -- create department table
